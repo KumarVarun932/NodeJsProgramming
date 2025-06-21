@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Beginners",
+    "\\Beginners\\HTTPModule"
   ],
+  "SelectedNode": "\\Beginners\\HTTPModule\\JSONData.js",
   "PreviewInSolutionExplorer": false
 }
