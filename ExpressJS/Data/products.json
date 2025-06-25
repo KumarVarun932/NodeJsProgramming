@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "ProductsID": 1,
+      "ProductsName": "Chai",
+      "ProductsPrice": 1800,
+      "SupplierID": 1001,
+      "UnitPrice": 20.000,
+      "Discontinued": false
+    },
+    {
+      "ProductsID": 2,
+      "ProductsName": "Shoes",
+      "ProductsPrice": 2800,
+      "SupplierID": 1002,
+      "UnitPrice": 30.000,
+      "Discontinued": true
+    },
+    {
+      "ProductsID": 3,
+      "ProductsName": "Clothes",
+      "ProductsPrice": 1600,
+      "SupplierID": 1003,
+      "UnitPrice": 50.000,
+      "Discontinued": false
+    },
+    {
+      "ProductsID": 4,
+      "ProductsName": "Chairs",
+      "ProductsPrice": 1500,
+      "SupplierID": 1004,
+      "UnitPrice": 90.000,
+      "Discontinued": false
+    },
+    {
+      "ProductsID": 5,
+      "ProductsName": "Beverages",
+      "ProductsPrice": 1600,
+      "SupplierID": 1005,
+      "UnitPrice": 100.000,
+      "Discontinued": false
+    }
+  ]
+}
